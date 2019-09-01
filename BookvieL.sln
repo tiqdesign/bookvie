@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookvieL", "BookvieL\BookvieL.csproj", "{98EA8776-2A2A-437C-86D7-8DA62AE8DB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookvieL.Functions", "BookvieL.Functions\BookvieL.Functions.csproj", "{6E67AB80-3E2C-4637-8E32-EFDBFDBCAE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EA8776-2A2A-437C-86D7-8DA62AE8DB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EA8776-2A2A-437C-86D7-8DA62AE8DB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EA8776-2A2A-437C-86D7-8DA62AE8DB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EA8776-2A2A-437C-86D7-8DA62AE8DB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E67AB80-3E2C-4637-8E32-EFDBFDBCAE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E67AB80-3E2C-4637-8E32-EFDBFDBCAE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E67AB80-3E2C-4637-8E32-EFDBFDBCAE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E67AB80-3E2C-4637-8E32-EFDBFDBCAE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CEB37D8-E2F5-409C-AB0F-0340F3855CB2}
+	EndGlobalSection
+EndGlobal

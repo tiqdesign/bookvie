@@ -1,0 +1,11 @@
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\bin\Debug\netcoreapp2.1\BookvieL.Functions.deps.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\bin\Debug\netcoreapp2.1\BookvieL.Functions.dll
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.csprojAssemblyReference.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.csproj.CoreCompileInputs.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.AssemblyInfoInputs.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.AssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\bin\Debug\netcoreapp2.1\BookvieL.Functions.runtimeconfig.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\bin\Debug\netcoreapp2.1\BookvieL.Functions.runtimeconfig.dev.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\bin\Debug\netcoreapp2.1\BookvieL.Functions.pdb
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.dll
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL.Functions\obj\Debug\netcoreapp2.1\BookvieL.Functions.pdb

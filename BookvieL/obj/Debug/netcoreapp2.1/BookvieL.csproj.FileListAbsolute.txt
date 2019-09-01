@@ -1,0 +1,17 @@
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.deps.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.runtimeconfig.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.runtimeconfig.dev.json
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.dll
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.pdb
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.Functions.dll
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\bin\Debug\netcoreapp2.1\BookvieL.Functions.pdb
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.csprojAssemblyReference.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.csproj.CoreCompileInputs.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.RazorAssemblyInfo.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.RazorAssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.AssemblyInfoInputs.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.AssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.RazorTargetAssemblyInfo.cache
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.csproj.CopyComplete
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.dll
+C:\Users\tiqdesign\source\repos\BookvieL\BookvieL\obj\Debug\netcoreapp2.1\BookvieL.pdb
